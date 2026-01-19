@@ -1,10 +1,15 @@
-## Hi there 👋
 
-- 🔭 I’m currently working on an Arduino-based Note Detector project that uses sensors and logic to help distinguish real vs. fake Indian currency; blending basic electronics with software logic in a real-world application.
-- 🌱 I’m currently learning Advanced coding skills (especially backend fundamentals, databases, and web development), deeper insights into computer hardware fundamentals, and practical software engineering workflows to build more reliable software systems.
-- 👯 I’m looking to collaborate on Projects that combine software + hardware; anything from full-stack web apps to embedded systems prototypes to tools that solve everyday problems through simple yet impactful tech.
-- 🤔 I’m looking for help with Guidance on best practices for building production-grade applications, and tips for expanding skills in databases, APIs, and scalable systems.
-- 💬 Ask me about Basic computer hardware troubleshooting, Arduino prototyping, building websites, working with databases, and real-world problem solving using tech.
-- 📫 How to reach me: Connect with me here on LinkedIn(https://www.linkedin.com/in/rajveershinde/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love approaching everyday problems with both electronics and code, whether it’s wiring sensors or crafting a responsive web page.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajveershinde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajveer.s.shinde@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rajveer shinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rajveer shinde&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajveer shinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rajveer shinde&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
